@@ -29,3 +29,4 @@ Users can interact with the chatbot to view products, ask questions, add items t
 1. Install dependencies:
 ```bash
 npm install
+npm run dev
